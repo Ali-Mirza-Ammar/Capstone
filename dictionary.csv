@@ -1,0 +1,25 @@
+﻿Set,Description,frequency,type,Sources,rows,columns
+DFF,fedral reserve effective rate,daily,tool,https://fred.stlouisfed.org/series/DFF,25734,2
+REAINTRATREARAT10Y,10-Year Real Interest Rate,monthly,indicator,https://fred.stlouisfed.org/series/REAINTRATREARAT10Y,517,2
+CORESTICKM159SFRBATL,Sticky Price Consumer Price Index less Food and Energy,monthly,indicator,https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL,684,2
+UNRATE,Unemployment Rate,monthly,indicator,https://fred.stlouisfed.org/series/UNRATE,924,2
+GDP,Gross Domestic Product,quarterly,indicator,https://fred.stlouisfed.org/series/GDP,312,2
+GDPC1,Real Gross Domestic Product,quarterly,indicator,https://fred.stlouisfed.org/series/GDPC1,312,2
+A939RX0Q048SBEA,Real gross domestic product per capita,quarterly,indicator,https://fred.stlouisfed.org/series/A939RX0Q048SBEA,312,2
+WM2NS,M2,weekly,tool,https://fred.stlouisfed.org/series/WM2NS,2298,2
+M2V,Velocity of M2 Money Stock,quarterly,tool,https://fred.stlouisfed.org/series/M2V,264,2
+M2REAL,Real M2 Money Stock,monthly,tool,https://fred.stlouisfed.org/series/M2REAL,791,2
+PSAVERT,Personal Saving Rate,monthly,indicator,https://fred.stlouisfed.org/series/PSAVERT,791,2
+DXY,US Dollar Index ,daily,indicator,https://www.kaggle.com/datasets/simonwildsmith/us-dollar-index?resource=download,16518,7
+TRESEGCNM052N,Total Reserves excluding Gold for China,monthly,indicator,https://fred.stlouisfed.org/series/TRESEGCNM052N,563,2
+XAU,Gold Price,daily,asset,https://www.kaggle.com/datasets/novandraanugrah/xauusd-gold-price-historical-data-2004-2024?select=XAU_1d_data_2004_to_2024-09-20.csv,5206,6
+OIL,Crude Oil Price,daily,asset,https://www.kaggle.com/datasets/sc231997/crude-oil-price,6074,7
+VIXCLS,CBOE Volatility Index: VIX,daily,indicator,https://fred.stlouisfed.org/series/VIXCLS,9119,2
+BOPGSTB,"Trade Balance: Goods and Services, Balance of Payments Basis",monthly,indicator,https://fred.stlouisfed.org/series/BOPGSTB,395,2
+RHEACBW027SBOG,"Real Estate Loans: Residential Real Estate Loans: Revolving Home Equity Loans, All Commercial Banks",weekly,indicator,https://fred.stlouisfed.org/series/RHEACBW027SBOG,1957,2
+BTC,Coinbase Bitcoin,daily,asset,https://fred.stlouisfed.org/series/CBBTCUSD,3669,2
+ETFs,S&P500 index stocks,daily,asset,https://www.kaggle.com/datasets/unmoved/magnificent-7-past-10-years-prices-updated-daily?select=equity_etfs.csv,2515,26
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
